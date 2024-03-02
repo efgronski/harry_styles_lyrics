@@ -1,6 +1,8 @@
 # Harry Styles' Lyric Analysis
 ## Beth Gronski
 
+See RMarkdown report with interactive graph here: https://rpubs.com/efgronski/907584
+
 #### *Harry Styles' Debut*
 Harry Styles' debuted his first album on May 12, 2017 according to Spotify. This album is the first time Harry Styles is playing music without his previous band, One Direction. According to Apple Music, "Across 10 songs, Harry Styles has the time of his life and emerges from his boy-band chrysalis a rock star."
 
